@@ -16,15 +16,14 @@
 ![Profile GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=javadnikbakht&theme=dark&hide_border=false)
 ![Most Used Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javadnikbakht&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- <p> <a href="https://github-readme-stats.vercel.app/api?username=javadnikbakht&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><img src="https://github-readme-stats.vercel.app/api?username=javadnikbakht&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="javadnikbakht" /></a>  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=javadnikbakht&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadnikbakht&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="javadnikbakht" /></a> </p><p> <a href="https://github-readme-streak-stats.herokuapp.com/?user=javadnikbakht&theme=dark&hide_border=false"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javadnikbakht&theme=dark&hide_border=false" alt="javadnikbakht" /></a> </p> -->
 
 ### 💻 Favorite Technologies
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red)](#)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
-[![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red)](https://www.rust-lang.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 
 <!-- [![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#) -->
 <!-- [![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](#) -->
@@ -34,7 +33,7 @@
 ### 🗣 Social
 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/javadnikbakht)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onionj/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javadnikbakht/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stk.so/javad)
 [![PYPI PACKAGES](https://img.shields.io/badge/-PyPI%20PACKAGES-4B8BBE?style=for-the-badge&labelColor=306998&logo=python&logoColor=white)](https://pypi.org/user/javadnikbakht)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/javadnikbakht_) -->
