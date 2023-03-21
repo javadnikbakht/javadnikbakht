@@ -6,7 +6,7 @@
 
 👨🏽‍💻 I'm currently Python Software Engineer at [**Toman**](https://tomanpay.net/).</br>
 🌱 I’m currently learning [**Rust**](https://www.rust-lang.org/) programming language.</br>
-🔭 I'm cloud computing enthusiast, especially via tools<br/>developed by [**RedHat**](https://www.redhat.com/) Company.<br/>
+🔭 I'm Blockchain enthusiast.<br/>
 👯 I’m looking to collaborate on [RedHat Projects](https://github.com/RedHatOfficial).<br/>
 📫 If You want to reach me just click [**here**](mailto:javadnikbakht@mail.com)!
 
@@ -46,6 +46,6 @@
 
 ### ❤️ Funding
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/javad)
-[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://pypi.org/user/javadnikbakht)
+[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/javad/)
 
 </div>
