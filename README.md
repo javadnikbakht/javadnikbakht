@@ -5,9 +5,9 @@
 ### 😎 About Me
 
 👨🏽‍💻 I'm currently Python Software Engineer at [**Toman**](https://tomanpay.net/).</br>
-🌱 I’m currently learning [**Rust**](https://www.rust-lang.org/) programming language.</br>
-🔭 I'm cloud computing enthusiast, especially via tools<br/>developed by [**RedHat**](https://www.redhat.com/) Company.<br/>
-👯 I’m looking to collaborate on [RedHat Projects](https://github.com/RedHatOfficial).<br/>
+🌱 I’m currently learning [**Go**](https://go.dev/) programming language.</br>
+🔭 I'm Financial Technologies enthusiast.<br/>
+👯 I’m looking to collaborate on [TigerBeetle Project](https://github.com/tigerbeetle/tigerbeetle).<br/>
 📫 If You want to reach me just click [**here**](mailto:javadnikbakht@mail.com)!
 
 ### 📟 GitHub Stats
@@ -21,7 +21,7 @@
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=blue)](https://go.dev/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 
@@ -46,6 +46,6 @@
 
 ### ❤️ Funding
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/javad)
-[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://pypi.org/user/javadnikbakht)
+[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/javad/)
 
 </div>
